@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 My first page!
 
 [MT](../STE_exercise.md)
